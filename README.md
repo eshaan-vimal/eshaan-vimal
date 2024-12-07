@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://teia.art/objkt/174892"  />
+<img align="right" height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fhow-ai-transforming-erp-future-dan-aldridge-erp-software-expert&psig=AOvVaw2ONKQWTwoDMFpCh0ki81Vq&ust=1733624012572000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPianO7KlIoDFQAAAAAdAAAAABAR"  />
 
 ###
 
