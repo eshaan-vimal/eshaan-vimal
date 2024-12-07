@@ -1,4 +1,4 @@
-<h1 align="center">Eshaan Vimal | Software Developer</h1>
+<h1 align="center">Eshaan Vimal - Software Developer</h1>
 
 ###
 
