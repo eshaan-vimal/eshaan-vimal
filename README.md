@@ -10,7 +10,7 @@
 
 ###
 
-<div align="center"><a href="#"><img align="center" width="70%" src="./code-gif.gif"></a></div>
+<div align="center"><a href="#"><img align="center" width="80%" src="./code-gif.gif"></a></div>
 
 ###
 
