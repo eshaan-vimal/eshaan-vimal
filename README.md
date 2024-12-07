@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://giphy.com/gifs/glitch-hacker-metaverse-bJ4TVNYNUympPgcpem"  />
+<img align="right" height="150" src="https://teia.art/objkt/174892"  />
 
 ###
 
