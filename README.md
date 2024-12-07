@@ -17,7 +17,7 @@
 <h2>Tech</h2>
 <div align="center">
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" /></a>
-  <img width="12" />
+  <a href="#"><img width="12" /></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" /></a>
   <img width="12" />
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" /></a>
