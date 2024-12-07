@@ -16,7 +16,7 @@
 
 ###
 
-<img align="right" height="150" src="./code-img.gif"  />
+<img align="right" width="50%" src="./code-img.gif"  />
 
 ###
 
