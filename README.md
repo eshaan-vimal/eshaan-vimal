@@ -81,8 +81,6 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=eshaan-vimal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false" height="150" alt="languages graph"  />
 </div></a>
 
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/eshaan-vimal/eshaan-vimal/output/snake.svg" alt="Snake animation" />
