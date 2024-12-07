@@ -3,8 +3,8 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <a href="https://www.linkedin.com/in/eshaan-vimal-47a939328/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
+  <a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /></a>
 </div>
 
 ###
@@ -16,7 +16,7 @@
 
 ###
 
-<img align="right" height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gifcen.com%2Fhacker-gif-20%2F&psig=AOvVaw2ONKQWTwoDMFpCh0ki81Vq&ust=1733624012572000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPianO7KlIoDFQAAAAAdAAAAABAp"  />
+<div style="width:100%;height:0;padding-bottom:178%;position:relative;"><iframe src="https://giphy.com/embed/QKDpE67Rc7rpjBmQPj" height="150" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/matrix-coding-glitchy-QKDpE67Rc7rpjBmQPj"></a></p>
 
 ###
 
