@@ -16,15 +16,15 @@
 
 <h2>Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eshaan-vimal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eshaan-vimal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
+  <a><img src="https://github-readme-stats.vercel.app/api?username=eshaan-vimal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false" height="150" alt="stats graph"  /></a>
+  <a><img src="https://github-readme-stats.vercel.app/api/top-langs?username=eshaan-vimal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false" height="150" alt="languages graph"  />
+</div></a>
 
 ###
 
 <h2>Tech</h2>
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  /></a>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
