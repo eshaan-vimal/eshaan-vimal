@@ -11,6 +11,12 @@
 ###
 
 <div align="center"><a href="#"><img align="center" height="40%" src="./code-gif.gif" style="border-radius: 50px;"></a></div>
+<style>
+  img {
+    clip-path: circle(50%);
+  }
+</style>
+
 
 ###
 
