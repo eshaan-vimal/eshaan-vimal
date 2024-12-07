@@ -9,7 +9,7 @@
 
 ###
 
-<div align="left"><img align="right" width="60%" height="30%" src="./code-img.gif"  /></div>
+<div align="left"><img align="left" width="60%" height="30%" src="./code-img.gif"  /></div>
 
 ###
 
