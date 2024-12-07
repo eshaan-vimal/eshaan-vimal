@@ -16,7 +16,7 @@
 
 ###
 
-<div style="width:100%;height:0;padding-bottom:178%;position:relative;"><iframe src="https://giphy.com/embed/QKDpE67Rc7rpjBmQPj" height="150" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/matrix-coding-glitchy-QKDpE67Rc7rpjBmQPj"></a></p>
+<img align="right" height="150" src="https://giphy.com/embed/QKDpE67Rc7rpjBmQPj"  />
 
 ###
 
